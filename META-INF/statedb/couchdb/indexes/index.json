@@ -1,0 +1,10 @@
+{
+  "index": {
+    "fields": [ //索引的列
+      "productBatch"
+    ]
+  },
+  "ddoc": "qualitycheckIndexDoc", //索引文档名，可自定义
+  "name": "qualitycheckIndex", //索引名，可自定义
+  "type": "json"
+}
